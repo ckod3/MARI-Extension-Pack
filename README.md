@@ -1,4 +1,4 @@
-#MARI EXTENSION PACK 2.1
+#MARI EXTENSION PACK 2.1__ckodeedit
 
 Copyright (c) 2015 www.mari.ideascale.com. All Rights Reserved.
 
